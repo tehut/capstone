@@ -19,7 +19,7 @@ The Capstone Project is the largest undertaking you'll experience in the Ada cla
 - A half-hour one-on-one with your PM
 
 #### Daily
-- In lieu of formal standups with your PMs, you will complete this [daily checkin form](https://goo.gl/forms/edpg44h0ig3FZlQg1) __before noon Monday through Friday, and once over the weekend.__ This is a non-negotiable requirement.
+- In lieu of formal standups with your PMs, you will complete this [daily checkin form](https://goo.gl/forms/Q1Cl64CvqunULl3m2) __before noon Monday through Friday, and once over the weekend.__ This is a non-negotiable requirement.
 
 ### Final Delivery
 The Capstone Project consists of the following components:
