@@ -1,8 +1,4 @@
-# Product Plan Template Document
-
-Copy and paste this document into a gist and then edit it to create your product plan document.  This document is an example with the minimum content required for your product plan deliverable.  You are free to add further content to help you arrive at your capstone.
-
-# Product Plan - AUTHOR NAME
+# Product Plan - Tehut Getahun
 
 ## Learning Goals
 - Use the opportunity of working on the Transparent Classroom API to nabvigate and contribute to an existing codebase. 
@@ -48,13 +44,17 @@ Link to your trello board.
 ## Technologies
 
 - Back-end Technology
-   - Given the small size of my PDF files I am considering moving away from usign a backend technology at all.  I may just do a Backbone SPA.
+   - Rails Server
+	   - Given the small size of my PDF files I am considering moving away from maintaining my own server side code. The primary use that comes to mind is storing previously generated pdfs and given the nature of our data that is a risk that doesn't seem wise.
    - Quickbooks API
    - Transparent Classroom API
    -
 - Front-end Technology
+
     - Backbone for API managment
-     - PDFmake Javascript Library
+    - PDFmake Javascript Library
+    - Node Quickbooks library to allow for faster development with quickboos
+    - React for front end display
 - Infrastructure
 	-Google Container Engine
 	- Either Google Compute Engine or AWS using the Kubernetes Quickstart for AWS by Heptio
@@ -69,10 +69,18 @@ Link to wireframe
 
 ## MVP Feature Set
 
-1.  An App feature
-	- A bullet or two describing the feature in more detail
-1.  Another App feature
-	- More details in sub-bullets
+1.  WMS Admin can log into TC via WMSApp and generate PDFS of classroom data
+- Class List :A numbered and alphabetized list of students 
+- Daily Roster: A numbered and alphabetixed list of students that lists only the students registered to attend school on  a given day of the week.
+- Birthday List: A chronological list, sorted by Academic Year, of the students in a given classroom and their names and birthdays.
+- Allergy List: An alphabetized list of the students in a given classroom with allergies listed on their registration form. The list must contain the student's name and a list of the items to which they are allergic.
+- Parent Email List: An alphabetized list of the students in a given classroom, their names, their parents names and their parents email addresses.
+- Parent Phone List:  An alphabetized list of the students in a given classroom, their names, their parents names and their parents phone numbers.
+
+2. Scheduled
+
+3. WMS Admin can log into WMS App and see list of invoices sent to parents who submitted registration forms
+	
 <<<<<<< HEAD
 
 =======
