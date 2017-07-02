@@ -39,7 +39,7 @@ It does not ask WMS administrators to learn new systems but works on top of syst
 My app targets school adminstrators who are familiar with basic consumer facing technology (email, quickbooks, etc) but do not have an interest in thinking about their technology at all.
 
 ## Trello Board
-Link to your trello board.
+https://trello.com/b/F1TxZlXU/wmsapp
 
 ## Technologies
 
@@ -62,10 +62,10 @@ Link to your trello board.
 
 =======
 
->>>>>>> upstream/master
-## Wireframes
 
-Link to wireframe
+## Wireframes
+https://trello.com/b/F1TxZlXU/wmsapp
+in Trello Board
 
 ## MVP Feature Set
 
@@ -77,7 +77,7 @@ Link to wireframe
 - Parent Email List: An alphabetized list of the students in a given classroom, their names, their parents names and their parents email addresses.
 - Parent Phone List:  An alphabetized list of the students in a given classroom, their names, their parents names and their parents phone numbers.
 
-2. Scheduled
+2. WMSApp will run a nightly job that downloads all the registrations on a given day and posts invoices to Quickbooks 
 
 3. WMS Admin can log into WMS App and see list of invoices sent to parents who submitted registration forms
 	
