@@ -1,7 +1,7 @@
 # Product Plan - Tehut Getahun
 
 ## Learning Goals
-- Use the opportunity of working on the Transparent Classroom API to nabvigate and contribute to an existing codebase. 
+- Use the opportunity of working on the Transparent Classroom API to navigate and contribute to an existing codebase. 
 - Learn to generate and manage PDFs from the browser
 - Learn to use Google Container Engine to containerize my final product
 - Learn to deploy to the cloud--either with Heptio AWS Kubernetes quickstart or Google Computer Engine
@@ -39,7 +39,7 @@ It does not ask WMS administrators to learn new systems but works on top of syst
 My app targets school adminstrators who are familiar with basic consumer facing technology (email, quickbooks, etc) but do not have an interest in thinking about their technology at all.
 
 ## Trello Board
-https://trello.com/b/F1TxZlXU/wmsapp
+https://trello.com/b/F1TxZlXU/wmsapp  (there isn't really anything up here but my wireframes)
 
 ## Technologies
 
